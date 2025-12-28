@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![](https://visitcount.itsvg.in/api?id=jeffdevx&icon=0&color=0)](https://visitcount.itsvg.in)<br>
-# <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> <b>Hi, I'm John Jairo Chiquillo Cruz<sub style="font-size: 15px; font-style: italic">, a QA Engineer.</sub><br> [![LinkedIn](https://www.linkedin.com/in/john-chiquillo-cruz/)]
+# <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> <b>Hi, I'm John Jairo Chiquillo Cruz<sub style="font-size: 15px; font-style: italic">, a QA Engineer.</sub><br> [![LinkedIn](https://img.shields.io/badge/John%20Chiquillo-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-chiquillo-cruz/)]
+
 
 ⚡Backend developer by nature, but with a curious eye for the frontend, always looking to learn and expand my skills.<br>
 
