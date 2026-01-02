@@ -50,11 +50,11 @@ Here are some ideas to get you started:
     ![Gunicorn Badge](https://img.shields.io/badge/Gunicorn-499848?logo=gunicorn&logoColor=fff&style=flat)
 
 - ## IDEs & Tools
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
-    ![jirasoftware](https://img.shields.io/badge/jira_software-0052CC.svg?style=for-the-badge&logo=jirasoftware&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![gitlab](https://img.shields.io/badge/gitlab-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-fff&style=white)
+    ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=fff&style=white)
+    ![jirasoftware](https://img.shields.io/badge/jira_software-0052CC.svg?style=for-the-badge&logo=fff&style=white)
+    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=fff&style=white)
+    ![gitlab](https://img.shields.io/badge/gitlab-FC6D26.svg?style=for-the-badge&logo=fff&style=white)
     ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
     ![PyCharm Badge](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff&style=flat)
     ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat)
