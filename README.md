@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![](https://visitcount.itsvg.in/api?id=jeffdevx&icon=0&color=0)](https://visitcount.itsvg.in)<br>
-# <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> <b>Hi, I'm John Jairo Chiquillo Cruz<sub style="font-size: 15px; font-style: italic">, a QA Engineer.</sub><br> [![LinkedIn](https://img.shields.io/badge/John%20Chiquillo-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-chiquillo-cruz/)]
+# <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> <b>Hola, Mi nombre es< John Jairo Chiquillo Cruz<sub style="font-size: 15px; font-style: italic">, a QA Engineer.</sub><br> [![LinkedIn](https://img.shields.io/badge/John%20Chiquillo-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-chiquillo-cruz/)]
 
 
 ⚡Backend developer by nature, but with a curious eye for the frontend, always looking to learn and expand my skills.<br>
@@ -24,11 +24,9 @@ Here are some ideas to get you started:
 
 - ## Languages
     ![Python Badge](https://custom-icon-badges.demolab.com/badge/Python-000.svg?logo=python-colorful)
-   
+    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 - ## Frameworks
-    ![Django Badge](https://img.shields.io/badge/Django-%23092E20.svg?&logo=django&logoColor=white&style=flat)
-    ![DjangoREST Badge](https://img.shields.io/badge/Django-REST*-ff1709?&logo=django&logoColor=white&color=ff1709&labelColor=gray&style=flat) 
-    ![Flask Badge](https://img.shields.io/badge/Flask-%23000.svg?&logo=flask&logoColor=white&style=flat)
     ![Spring Badge](https://img.shields.io/badge/Spring-%236DB33F.svg?&logo=spring&logoColor=white&style=flat)
     ![Node.js Badge](https://img.shields.io/badge/Node.js*-393?logo=nodedotjs&logoColor=fff&style=flat) 
     ![React Badge](https://img.shields.io/badge/React*-%2320232a.svg?&logo=react&logoColor=%2361DAFB&style=flat) 
@@ -42,12 +40,6 @@ Here are some ideas to get you started:
     ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
     ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
     ![Git Extensions Badge](https://img.shields.io/badge/Git%20Extensions-212121?logo=gitextensions&logoColor=fff&style=flat)
-
-- ## Clouds & Hostings
-    ![Netlify Badge](https://img.shields.io/badge/Netlify-%23000000.svg?&logo=netlify&logoColor=00C7B7&style=flat) 
-    ![Heroku Badge](https://img.shields.io/badge/Heroku-%23430098.svg?&logo=heroku&logoColor=white&style=flat) 
-    ![Apache Badge](https://img.shields.io/badge/Apache-C71A36?&logo=Apache&logoColor=white&style=flat) 
-    ![Gunicorn Badge](https://img.shields.io/badge/Gunicorn-499848?logo=gunicorn&logoColor=fff&style=flat)
 
 - ## IDEs & Tools
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-fff&style=white)
