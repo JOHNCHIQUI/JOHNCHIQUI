@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![](https://visitcount.itsvg.in/api?id=jeffdevx&icon=0&color=0)](https://visitcount.itsvg.in)<br>
-# <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> <b>Hola, Mi nombre es< John Jairo Chiquillo Cruz<sub style="font-size: 15px; font-style: italic">, a QA Engineer.</sub><br> [![LinkedIn](https://img.shields.io/badge/John%20Chiquillo-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-chiquillo-cruz/)]
+# <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> <b>Hola, Mi nombre es< John Jairo Chiquillo Cruz<sub style="font-size: 15px; font-style: italic">, soy QA Engineer.</sub><br> [![LinkedIn](https://img.shields.io/badge/John%20Chiquillo-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-chiquillo-cruz/)]
 
 
 ⚡Backend developer by nature, but with a curious eye for the frontend, always looking to learn and expand my skills.<br>
@@ -26,6 +26,7 @@ Here are some ideas to get you started:
     ![Python Badge](https://custom-icon-badges.demolab.com/badge/Python-000.svg?logo=python-colorful)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+  
 - ## Frameworks
     ![Spring Badge](https://img.shields.io/badge/Spring-%236DB33F.svg?&logo=spring&logoColor=white&style=flat)
     ![Node.js Badge](https://img.shields.io/badge/Node.js*-393?logo=nodedotjs&logoColor=fff&style=flat) 
@@ -41,7 +42,7 @@ Here are some ideas to get you started:
     ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
     ![Git Extensions Badge](https://img.shields.io/badge/Git%20Extensions-212121?logo=gitextensions&logoColor=fff&style=flat)
 
-- ## IDEs & Tools
+- ## IDEs & Herramientas
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-fff&style=white)
     ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=fff&style=white)
     ![jirasoftware](https://img.shields.io/badge/jira_software-0052CC.svg?style=for-the-badge&logo=fff&style=white)
@@ -53,13 +54,7 @@ Here are some ideas to get you started:
     ![Notion Badge](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=flat)
     ![Microsoft Office Badge](https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoftoffice&logoColor=fff&style=flat)
 
-\* Habilidades de estudio y mejora.
-# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
-
-![](https://github-readme-stats.vercel.app/api?username=jeffdevx&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jeffdevx&theme=dracula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffdevx&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+ ## Habilidades de estudio y mejora.
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -68,3 +63,10 @@ Here are some ideas to get you started:
 ![react](https://img.shields.io/badge/react.js-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![nextdotjs](https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![nodedotjs](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
+
+![](https://github-readme-stats.vercel.app/api?username=jeffdevx&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jeffdevx&theme=dracula&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffdevx&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
