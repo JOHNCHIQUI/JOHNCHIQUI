@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> <b>Hola, Mi nombre es< John Jairo Chiquillo Cruz<sub style="font-size: 15px; font-style: italic">, soy QA Engineer.</sub><br> [![LinkedIn](https://img.shields.io/badge/John%20Chiquillo-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-chiquillo-cruz/)]
 
 
-⚡Backend developer by nature, but with a curious eye for the frontend, always looking to learn and expand my skills.<br>
+⚡QA Engineer Jr apasionado por la calidad del software, con experiencia en pruebas manuales, automatización y testing de APIs.<br>
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Skills</b>
 
