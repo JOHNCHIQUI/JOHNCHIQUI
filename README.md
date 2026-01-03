@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ⚡QA Engineer Jr apasionado por la calidad del software, con experiencia en pruebas manuales, automatización y testing de APIs.<br>
 
-# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Skills</b>
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Habilidades</b>
 
 - ## Languages
     ![Python Badge](https://custom-icon-badges.demolab.com/badge/Python-000.svg?logo=python-colorful)
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
     ![React Badge](https://img.shields.io/badge/React*-%2320232a.svg?&logo=react&logoColor=%2361DAFB&style=flat) 
     ![Selenium Badge](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff&style=flat)
 
-- ## Databases     
+- ## Bases de Datos     
     ![MySQL Badge](https://img.shields.io/badge/MySQL-%2300f.svg?&logo=mysql&logoColor=white&style=flat) 
     ![SQLite Badge](https://img.shields.io/badge/SQLite-%2307405e.svg?&logo=sqlite&logoColor=white&style=flat)
    
