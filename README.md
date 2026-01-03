@@ -1,4 +1,4 @@
-## Hi there 👋
+## HOLA 👋
 
 <!--
 **JOHNCHIQUI/JOHNCHIQUI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![](https://visitcount.itsvg.in/api?id=jeffdevx&icon=0&color=0)](https://visitcount.itsvg.in)<br>
-# <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> <b>Hola, Mi nombre es< John Jairo Chiquillo Cruz<sub style="font-size: 15px; font-style: italic">, soy QA Engineer.</sub><br> [![LinkedIn](https://img.shields.io/badge/John%20Chiquillo-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-chiquillo-cruz/)]
+# <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> <b> Mi nombre es< John Jairo Chiquillo Cruz<sub style="font-size: 15px; font-style: italic">, soy QA Engineer.</sub><br> [![LinkedIn](https://img.shields.io/badge/John%20Chiquillo-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-chiquillo-cruz/)]
 
 
 ⚡QA Engineer Jr apasionado por la calidad del software, con experiencia en pruebas manuales, automatización y testing de APIs.<br>
